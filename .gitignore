@@ -123,3 +123,4 @@ libbitcoinconsensus.pc
 # IDE files
 *.sublime-project
 *.sublime-workspace
+.vscode
